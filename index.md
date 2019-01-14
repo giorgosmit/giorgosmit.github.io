@@ -4,7 +4,7 @@
 
 ## About me
 
-CV: {{giorgosmit.github.io}}/pdfs/George Mitkidis - CV.pdf
+[Curiculum Vitae] (giorgosmit.github.io/pdfs/George Mitkidis - CV.pdf)
 
 e-mail: giorgosmit@gmail.com	
 
