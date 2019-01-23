@@ -2,8 +2,9 @@
 
 
 
-[About me](https://github.com/giorgosmit/giorgosmit.github.io/blob/master/about_me.md)
+[About me](giorgosmit.github.io/about_me.md)
 
 [e-mail](mailto:giorgosmit@gmail.com)	
 
 [twitter](https://twitter.com/giorgosmit)
+
