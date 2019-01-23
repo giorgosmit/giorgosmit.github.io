@@ -28,7 +28,7 @@ A full copy of my CV is [here]({{giorgosmit.github.io}}/pdfs/George_Mitkidis.pdf
 
 ## Education 
 
-Present| MSc Cognitive Science | University of Athens
+Present | MSc Cognitive Science | University of Athens
 
 
 
