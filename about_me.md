@@ -14,6 +14,8 @@ A full copy of my CV is [here]({{giorgosmit.github.io}}/pdfs/George_Mitkidis.pdf
 
 ## Employment history
 
+
+
 2018-present  | IT support specialist / machine learning researcher   | Hyetos consulting engineering
 
 
@@ -21,11 +23,14 @@ A full copy of my CV is [here]({{giorgosmit.github.io}}/pdfs/George_Mitkidis.pdf
 2014 - 2015     | Election data collection                                                    | metapolls.net
 
 
-2009 - 2017    | Technical and academic translation                              | Freelance
+
+2009 - 2017     | Technical and academic translation                              | Freelance
 
 
 
 ## Education 
+
+
 
 Present | MSc Cognitive Science                                       | University of Athens
 
