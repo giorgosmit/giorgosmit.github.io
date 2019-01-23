@@ -1,7 +1,5 @@
 # About me
 
-![me](giorgosmit.github.io/images/photo.png)
-
 
 
 I currently as an IT support specialist at Hyetos engineering consulting company. I have also worked on data science machine learning research projects , using mainly neural networks in the context of hydraulic engineering.
