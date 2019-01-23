@@ -2,7 +2,7 @@
 
 
 
-[About me](https://github.com/giorgosmit/giorgosmit.github.io/blob/master/about_me.html)
+[About me](giorgosmit.github.io/about_me.html)
 
 [e-mail](mailto:giorgosmit@gmail.com)	
 
