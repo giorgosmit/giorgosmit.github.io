@@ -1,5 +1,9 @@
 # About me
 
+![index](/home/giorgos/Downloads/index.png)
+
+
+
 I currently as an IT support specialist at Hyetos engineering consulting company. I have also worked on data science machine learning research projects , using mainly neural networks in the context of hydraulic engineering.
 
 I've got a Master's degree in [Political Science and Sociology](http://en.pspa.uoa.gr/) from the University of Athens. I am now working on my second Master's, this time in [Cognitive Science](http://cogsci.phs.uoa.gr/) in the History and Philosophy of Science Department of the University of Athens. 
