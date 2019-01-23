@@ -1,6 +1,6 @@
 # About me
 
-![index](/home/giorgos/Downloads/index.png)
+![me](giorgosmit.github.io/images/photo.png)
 
 
 
