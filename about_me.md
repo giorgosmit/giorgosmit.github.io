@@ -30,7 +30,7 @@ A full copy of my CV is [here]({{giorgosmit.github.io}}/pdfs/George_Mitkidis.pdf
 
 
 
-## Education 
+## University education 
 
 
 
@@ -43,3 +43,12 @@ Present : MSc Cognitive Science                                            - Uni
 
 
 2013      : BA Political Science and Public Administration - University of Athens
+
+
+
+## Further education
+
+### Seminars: 
+
+### Online courses: 
+
