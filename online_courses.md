@@ -36,3 +36,12 @@
 - [Advanced Deep Learning with Keras in Python](https://www.datacamp.com/statement-of-accomplishment/course/784cac4626ce9d5b29e87596be9930911c0d3a52)
 - [Supervised Learning with scikit-learn](https://www.datacamp.com/statement-of-accomplishment/course/f2a4803538b6c82ad81d61fbbf3ac60a1dc9211f)
 - [Object-Oriented Programming in Python](https://www.datacamp.com/statement-of-accomplishment/course/fa3f5e5f97d11389c28a0a4cbfb3030755d0c3ce)
+
+### R Programming, Data Science and Machine Learning
+
+- [Introduction to R](https://www.datacamp.com/statement-of-accomplishment/course/63f3de8e6b9d0032081e0214242d1830eb870b86)
+- [Writing Efficient R Code](https://www.datacamp.com/statement-of-accomplishment/course/55f41e219eef480f8bff1b99137aace3720e7e37)
+
+### SQL
+
+- [Intro to SQL for Data Science](https://www.datacamp.com/statement-of-accomplishment/course/7e3b09234986f12f46c14ac8fc87bf0459feb551)
