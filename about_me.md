@@ -50,5 +50,6 @@ Present : MSc Cognitive Science                                            - Uni
 
 ### Seminars: 
 
-### Online courses: 
+### Online courses:  
+A full list of completed online courses can be found [here](giorgosmit.github.io/online_courses.html)
 
