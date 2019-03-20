@@ -18,31 +18,42 @@ A full copy of my CV is [here]({{giorgosmit.github.io}}/pdfs/George_Mitkidis.pdf
 <br>
 <br>
 **2018-present** 
-IT support specialist / machine learning researcher  
+IT support specialist / machine learning researcher
+<br>
 *Hyetos Consulting Engineering*
+<br>
 <br>
 **2014 - 2015**
 Election data collection 
+<br>
 *metapolls.net*
+<br>
 <br>
 **2009 - 2017**
 Technical and academic translation 
+<br>
 *Freelance*
 <br>
 <br>
+
 ## University education 
 <br>
 <br>
 **2016 - Present**
 M.Sc. in Cognitive Science
+<br>
 *University of Athens, Department of History and Philosophy of Science*
+<br>
 <br>
 **2013 - 2015**
 M.A. in Political Science and Sociology
+<br>
 *University of Athens, Department of Economic and Political Sciences*
+<br>
 <br>
 **2006 - 2013**
 Bachelor's in  Political Science and Public Administration
+<br>
 *University of Athens, Department of Economic and Political Sciences*
 <br>
 <br>
@@ -53,13 +64,17 @@ Bachelor's in  Political Science and Public Administration
 <br>
 **October 2018**
 Machine Learning with Python: 2 Days Seminar
+<br>
 *Coding School Greece, Athens*
+<br>
 <br>
 **March 2015**
 Social data documentation using the international DDI standard
+<br>
 *National Social Research Institute, Athens*
 <br>
 <br>
+
 ### Online courses:  
 A full list of completed online courses can be found [here](online_courses.html)
 
