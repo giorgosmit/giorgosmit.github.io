@@ -15,8 +15,6 @@ A full copy of my CV is [here]({{giorgosmit.github.io}}/pdfs/George_Mitkidis.pdf
 
 
 ## Employment history
-<br>
-<br>
 **2018-present** 
 <br>
 IT support specialist / machine learning researcher
@@ -40,8 +38,6 @@ Technical and academic translation
 <br>
 
 ## University education 
-<br>
-<br>
 **2016 - Present**
 <br>
 M.Sc. in Cognitive Science
@@ -66,8 +62,6 @@ Bachelor's in  Political Science and Public Administration
 ## Further education
 
 ### Seminars: 
-<br>
-<br>
 **October 2018**
 <br>
 Machine Learning with Python: 2 Days Seminar
