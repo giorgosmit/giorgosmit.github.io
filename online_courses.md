@@ -40,6 +40,7 @@
 ### R Programming, Data Science and Machine Learning
 
 - [Introduction to R](https://www.datacamp.com/statement-of-accomplishment/course/63f3de8e6b9d0032081e0214242d1830eb870b86)
+- [Forecasting using R](https://www.datacamp.com/statement-of-accomplishment/course/35244c188e67c18c75233e5f751a08ba07d45b56)
 - [Fundamentals of Bayesian Data Analysis in R](https://www.datacamp.com/statement-of-accomplishment/course/3853374a2cb3fe3e07917363795846ffdb31f1e8)
 - [Writing Efficient R Code](https://www.datacamp.com/statement-of-accomplishment/course/55f41e219eef480f8bff1b99137aace3720e7e37)
 
