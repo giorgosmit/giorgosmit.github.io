@@ -2,17 +2,19 @@
 
 ## Coursera
 
-### Google IT Support Professional Certificate Specialization
+### [Google IT Support Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/UWNDWSYC332S)
 
-- [Technical Support Fundamentals](https://www.coursera.org/api/certificate.v1/pdf/6LREGABMTL3F)
-- [Operating Systems and You: Becoming a Power User](https://www.coursera.org/api/certificate.v1/pdf/5RB4RNWN89W2)
-- [The Bits and Bytes of Computer Networking](https://www.coursera.org/api/certificate.v1/pdf/373DTP5MZBR4)
+- [Technical Support Fundamentals](https://www.coursera.org/account/accomplishments/certificate/6LREGABMTL3F?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate)
+- [Operating Systems and You: Becoming a Power User](https://www.coursera.org/account/accomplishments/certificate/5RB4RNWN89W2?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate)
+- [The Bits and Bytes of Computer Networking](https://www.coursera.org/account/accomplishments/certificate/373DTP5MZBR4?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate)
+- [System Administration and IT Infrastructure Services](https://www.coursera.org/account/accomplishments/certificate/AFN3DF94GQWV?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate)
+- [IT Security: Defense against the digital dark arts](https://www.coursera.org/account/accomplishments/certificate/WGCCQ5HU52MT?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate)
 
 
 
 ### Tensorflow Specialization by deeplearning.ai
 
-- [Introduction to Tensorflow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/api/certificate.v1/pdf/DUFSUDNTYU3E)
+- [Introduction to Tensorflow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/DUFSUDNTYU3E?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate)
 
 ## DataCamp
 
